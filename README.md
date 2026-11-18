@@ -71,3 +71,4 @@ A web app for exploring countries, built with React and TypeScript. It supports 
 
 [🔗 View repository](https://github.com/Bernardo-Lisboa/Globus)
 
+![Live preview of your Poke-README card](https://pokereadme.murilonoguez.com.br/api?user=Bernardo-Lisboa&pokes=502,350,197,637,778,927&bg=sakura)
